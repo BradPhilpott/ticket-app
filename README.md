@@ -1,4 +1,3 @@
-# CD-Task
  A Laravel App. A ticket system where users can assign tickets to suppliers. Tickets contain cost, dates and geographical the location.
 
 > This app is WIP and only contains part of the app. Users and locations still need to be integrated.
