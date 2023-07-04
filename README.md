@@ -4,24 +4,24 @@
 
 ## Supplier Listview
 Here is a list of suppliers. They can be created and deleted from this view. A supplier can't be deleted when it has been assigned a ticket. See below:
-<img width="1298" alt="image" src="https://github.com/BradPhilpott/CD-Task/assets/35923773/d93d2ac3-9fec-4135-bc60-667892c04b79">
-<img width="1312" alt="image" src="https://github.com/BradPhilpott/CD-Task/assets/35923773/a8c2aecf-65fa-415b-aff1-438c844f417a">
+<img width="1440" alt="image" src="https://github.com/BradPhilpott/ticket-app/assets/35923773/4efa9562-b23f-47eb-becd-d4ddea780f45">
+<img width="1440" alt="image" src="https://github.com/BradPhilpott/ticket-app/assets/35923773/119fad72-a831-4212-ae5b-cf89ce37bc27">
 
 ## Supplier Form
 When creating a supplier, here is the basic form provided:
-<img width="1304" alt="image" src="https://github.com/BradPhilpott/CD-Task/assets/35923773/6fdb38ab-9255-4ff8-82bd-5a10d16fc71e">
-
+<img width="1440" alt="image" src="https://github.com/BradPhilpott/ticket-app/assets/35923773/5db0a6bd-6df0-46d2-b754-30ac5f2edb4d">
 
 ## Ticket Listview
 Here is the ticket listview. There are more columns here and more data (it has the same delete functionality as the supplier listview):
-<img width="1309" alt="image" src="https://github.com/BradPhilpott/CD-Task/assets/35923773/5f8d63ff-e0e8-4d6d-b007-cef7c0f71772">
+<img width="1440" alt="image" src="https://github.com/BradPhilpott/ticket-app/assets/35923773/42942724-1b01-4100-b86a-99f9f83d0028">
 
 ## Ticket Form
 Here is part one of the form:
-<img width="1316" alt="image" src="https://github.com/BradPhilpott/CD-Task/assets/35923773/491cb0ba-dc94-4896-a496-beca72567b7e">
+<img width="1440" alt="image" src="https://github.com/BradPhilpott/ticket-app/assets/35923773/d9a57133-a2fa-4491-8d5d-571a27e5cb9a">
 
 And part two:
-<img width="1330" alt="image" src="https://github.com/BradPhilpott/CD-Task/assets/35923773/459419f4-52f1-4edf-aa66-6231b74d5262">
+<img width="1440" alt="image" src="https://github.com/BradPhilpott/ticket-app/assets/35923773/e7d425cb-0e21-4de2-a0a8-a2ee14086411">
+
 
 # Still to do:
 - Make dynamic seeders
